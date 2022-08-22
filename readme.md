@@ -8,7 +8,7 @@
 </h1>
 <p align="center">
   <a href="https://platzi-video-anime-andru-api.netlify.app target="_blank">
-    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/35ae5664-8756-4e3a-bb0c-d341283c5dca/deploy-status" width="130" />
+    <img alt="Netlify Status" src="https://platzi-video-anime-andru-api.netlify.app" width="130" />
   </a>
 </p>
 
