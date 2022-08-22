@@ -8,7 +8,7 @@
     "start": "npm run serve",
     "dev": "concurrently \"webpack -w\" \"micro-dev\"",
     "export": "node export.js",
-    "build": "webpack -p && node export",
+    "build": "webpack && node export",
     "serve": "serve .",
     "pre-commit": "pretty-quick --staged",
     "prepare": "husky install"
