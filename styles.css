@@ -4,8 +4,7 @@
  */
 body {
   margin: 0;
-  background: #21c08b;
-  background-image: linear-gradient(#21c08b, #8f57fd);
+  background: #28282b;
 }
 
 html {
@@ -149,14 +148,14 @@ footer {
 }
 footer p {
   margin: 0.5rem;
-  color: #22046f;
+  color: #faf9f6;
 }
 footer i {
   border-bottom: 1px dashed;
 }
 
 footer a {
-  color: #22046f;
+  color: #faf9f6;
   font-weight: bold;
 }
 
