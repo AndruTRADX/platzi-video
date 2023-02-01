@@ -24,7 +24,7 @@
     "concurrently": "^7.3.0",
     "css-loader": "^6.7.1",
     "date-fns": "^2.29.2",
-    "husky": "^8.0.1",
+    "husky": "^8.0.3",
     "hyperscript": "^2.0.2",
     "lodash": "^4.17.21",
     "lozad": "^1.16.0",
